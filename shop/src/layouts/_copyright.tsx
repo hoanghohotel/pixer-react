@@ -7,13 +7,14 @@ export default function Copyright({ className }: { className?: string }) {
   return (
     <div className={cn('tracking-[0.2px]', className)}>
       &copy; {t('text-copy-right')} {currentYear} {t('text-copy-right-by')}{' '}
-      <a
-        href="https://redq.io"
+      Made with ❤️ <a
+        href="https://mondayui.com"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-brand-dark"
       >
-        RedQ
+        Mondayui.com
+        
       </a>
       .
     </div>
