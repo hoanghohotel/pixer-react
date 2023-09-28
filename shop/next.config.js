@@ -14,6 +14,7 @@ module.exports = withPWA({
   images: {
     domains: [
       'api.mondayui.com',
+      'mondayui.com',
       'localhost',
       '127.0.0.1:8000',
       'maps.googleapis.com',
