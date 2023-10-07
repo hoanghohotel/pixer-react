@@ -71,7 +71,7 @@
     "eslint-config-prettier": "8.8.0",
     "husky": "8.0.3",
     "lint-staged": "13.1.2",
-    "postcss": "8.4.21",
+    "postcss": "8.4.31",
     "prettier": "2.8.7",
     "prettier-plugin-tailwindcss": "0.2.7",
     "rimraf": "3.0.2",
